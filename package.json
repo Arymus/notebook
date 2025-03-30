@@ -27,6 +27,7 @@
     "test": "test"
   },
   "dependencies": {
-    "arg": "^5.0.2"
+    "arg": "^5.0.2",
+    "sudo": "^1.0.3"
   }
 }
