@@ -1,0 +1,32 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "bin": {
+    "notebook": "./bin/notebook.js"
+  },
+  "description": "Makes using git easier by simplifying basic commands",
+  "keywords": [
+    "cli",
+    "javascript",
+    "notebook",
+    "git"
+  ],
+  "homepage": "https://github.com/Arymus/notebook#readme",
+  "bugs": {
+    "url": "https://github.com/Arymus/notebook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arymus/notebook.git"
+  },
+  "license": "MIT",
+  "author": "Arymus Reyes",
+  "type": "commonjs",
+  "main": "notebook.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "arg": "^5.0.2"
+  }
+}
