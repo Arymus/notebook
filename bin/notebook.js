@@ -39,12 +39,13 @@ notebook branch                         Create a new branch
 notebook open                           Switch to a different branch  
 notebook current                        Shows the branch you're in
 notebook view                           View all branches and remote repositories
-notebook copy				Clone an existing repository
+notebook copy			               	Clone an existing repository
+notebook merge                          Merge two branches
 
 Flags:
 
---help (or -h)                          Show this help message
---version (or -v)                       Show the version of notebook
+--help, -h                              Show this help message
+--version, -v                           Show the version of notebook
         `);
 
     // If the argument is --version
