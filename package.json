@@ -4,7 +4,7 @@
   "bin": {
     "notebook": "./bin/notebook.js"
   },
-  "description": "Makes using git easier by simplifying basic commands",
+  "description": "Makes using git easier by simplifying basic commands.",
   "keywords": [
     "cli",
     "javascript",
