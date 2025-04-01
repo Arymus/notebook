@@ -6,6 +6,8 @@
 <h1>Installation</h1>
 <code>git clone https://github.com/Arymus/notebook</code>
 <br>
+<br>
 <code>cd notebook</code>
+<br>
 <br>
 <code>npm install -g .</code>
